@@ -7,3 +7,4 @@ def test_ddg0():
     resp = requests.get(url_ddg)
     rsp_data = resp.json()
     assert "DuckDuckGo" in rsp_data["Heading"]
+    assert len(rsp_data["Heading"]) == 31
