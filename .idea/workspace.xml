@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="557eea66-5aa8-4518-87b4-f0db38eafc96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rest_api/travis.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="557eea66-5aa8-4518-87b4-f0db38eafc96" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
     <session id="1411156744">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -152,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rest_api/test/unittest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_ddg.test_ddg0">
+  <component name="RunManager" selected="Python tests.pytest in test_ddg.py">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RestAPITesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,6 +282,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python tests.pytest for rest_api.test.unittest.test_ddg.test_ddg0" />
       <item itemvalue="Python tests.pytest in test_ddg.py" />
       <item itemvalue="Python.ddg (1)" />
       <item itemvalue="Python tests.pytest for test_ddg.test_ddg0" />
@@ -292,11 +291,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_ddg.py" />
         <item itemvalue="Python tests.pytest for test_ddg.test_ddg0" />
         <item itemvalue="Python.ddg (2)" />
         <item itemvalue="Python tests.pytest for rest_api.test.unittest.test_ddg.test_ddg0" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.ddg (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -337,13 +336,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1709" y="141" width="1600" height="764" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25224072" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4276316" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4276316" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
