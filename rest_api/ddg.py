@@ -28,4 +28,9 @@ def ddg():
         print(key)
     print(len(r_topics))
 
+    print(str(r_topics).count('Text'))
+
+
+
+
 ddg()

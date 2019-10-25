@@ -14,3 +14,9 @@ def test_ddg1():
     my_jason = response.json()
     r_topics = my_jason['RelatedTopics']
     assert len(r_topics) == 50
+
+def test_ddg3():
+    response = requests.get(url)
+    my_jason = response.json()
+    r_topics = my_jason['RelatedTopics']
+    assert (str(r_topics).count('Text')) == 50
