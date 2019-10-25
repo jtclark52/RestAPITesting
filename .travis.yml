@@ -6,4 +6,4 @@ install:
  - "pip install pytest"
  - "pip install -r travis.txt"
  - "pip install requests"
-script: python -m pytest rest_api
+script: python -m git pytest rest_api

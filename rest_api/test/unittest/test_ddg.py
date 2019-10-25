@@ -8,3 +8,9 @@ def test_ddg0():
     headings = my_jason['Heading']
     assert "Presidents of the United States" in headings
     assert len(headings) == 31
+
+def test_ddg1():
+    response = requests.get(url)
+    my_jason = response.json()
+    r_topics = my_jason['RelatedTopics']
+    assert len(r_topics) == 50
