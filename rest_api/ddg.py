@@ -10,14 +10,11 @@ def ddg():
 
     my_json = response.json()
 
-    # print(response.json())
-
-
     for key in my_json.keys():
         print(key)
 
     headings = my_json['Heading']
-    print('These are the Headings: \n', headings)
+    print('This is the Heading: \n', headings)
     print(len(headings))
 
     r_topics = my_json['RelatedTopics']
@@ -29,8 +26,5 @@ def ddg():
     print(len(r_topics))
 
     print(str(r_topics).count('Text'))
-
-
-
 
 ddg()
