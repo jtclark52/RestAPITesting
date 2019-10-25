@@ -1,8 +1,8 @@
 import requests
 
-# url = 'https://api.duckduckgo.com/?q=presidents+of+the+united+states&format=json'
+url = "https://api.duckduckgo.com/?q=presidents+of+the+united+states&format=json"
 
-url = 'https://duckduckgo.com/?q=presidents+of+the+united+states&t=h_&ia=list&iax=list&format=json'
+# url = 'https://duckduckgo.com/?q=presidents+of+the+united+states&t=h_&ia=list&iax=list&format=json'
 
 def ddg():
 

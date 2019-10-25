@@ -1,38 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="557eea66-5aa8-4518-87b4-f0db38eafc96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" afterDir="false" />
-    </list>
+    <list default="true" id="557eea66-5aa8-4518-87b4-f0db38eafc96" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="306">
-                    <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-                    <folding>
-                      <element signature="e#0#15#0" expanded="true" />
-                      <marker date="1571975866457" expanded="true" signature="335:336" ph="..." />
-                      <marker date="1571975866457" expanded="true" signature="335:340" ph="..." />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1411156744">
@@ -198,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_ddg.py">
+  <component name="RunManager" selected="Python.ddg (2)">
     <configuration name="ddg (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RestAPITesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,9 +263,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ddg (2)" />
         <item itemvalue="Python tests.pytest in test_ddg.py" />
         <item itemvalue="Python tests.pytest for test_ddg.test_ddg1" />
-        <item itemvalue="Python.ddg (2)" />
         <item itemvalue="Python tests.pytest for test_ddg.test_ddg0" />
         <item itemvalue="Python tests.pytest for rest_api.test.unittest.test_ddg.test_ddg0" />
       </list>
@@ -334,7 +308,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="91" width="1600" height="764" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25224072" />
       <window_info id="Structure" order="1" weight="0.25" />
