@@ -8,15 +8,24 @@ def ddg():
 
     response = requests.get(url)
 
+    # Status code
+    status = response.status_code
+
+    print('The status code is',status)
+
+    # json response
     my_json = response.json()
 
     for key in my_json.keys():
         print(key)
 
+    # heading
     headings = my_json['Heading']
-    print('This is the Heading: \n', headings)
+    print('This is the Heading:', headings)
+    print('This is the number of Headings:')
     print(len(headings))
 
+    # Related Topics
     r_topics = my_json['RelatedTopics']
     # print('These are the RelatedTopics: \n', r_topics)
 
@@ -25,6 +34,7 @@ def ddg():
         print(key)
     print(len(r_topics))
 
+    # Count of key pair for Text
     print(str(r_topics).count('Text'))
 
 ddg()
