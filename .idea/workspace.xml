@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557eea66-5aa8-4518-87b4-f0db38eafc96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rest_api/ddg.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_api/ddg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +18,11 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state>
+                  <state relative-caret-position="391">
+                    <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
                     <folding>
-                      <marker date="1571963959289" expanded="true" signature="321:322" ph="..." />
-                      <marker date="1571963959289" expanded="true" signature="321:326" ph="..." />
+                      <marker date="1571972319390" expanded="true" signature="321:322" ph="..." />
+                      <marker date="1571972319390" expanded="true" signature="321:326" ph="..." />
                     </folding>
                   </state>
                 </provider>
@@ -60,14 +61,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="486" />
+          <entry key="py" value="694" />
           <entry key="yml" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="486" />
+          <entry key="Python" value="694" />
         </counts>
       </usages-collector>
     </session>
@@ -82,10 +83,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rest_api/ddg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state relative-caret-position="306">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <marker date="1571970742835" expanded="true" signature="213:215" ph="..." />
+                <marker date="1571970925163" expanded="true" signature="213:215" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,9 +125,9 @@
         <option value="$PROJECT_DIR$/test/ddg.py" />
         <option value="$PROJECT_DIR$/test/unittest/test_ddg.py" />
         <option value="$PROJECT_DIR$/rest_api/.travis.yml" />
-        <option value="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/rest_api/ddg.py" />
+        <option value="$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py" />
       </list>
     </option>
   </component>
@@ -289,8 +290,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest in test_ddg.py" />
-        <item itemvalue="Python.ddg (2)" />
         <item itemvalue="Python tests.pytest for test_ddg.test_ddg1" />
+        <item itemvalue="Python.ddg (2)" />
         <item itemvalue="Python tests.pytest for test_ddg.test_ddg0" />
         <item itemvalue="Python tests.pytest for rest_api.test.unittest.test_ddg.test_ddg0" />
       </list>
@@ -300,24 +301,6 @@
     <configuration />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_ddg_test_ddg0 - 2019.10.24 at 18h 05m 02s.xml">
-      <configuration name="pytest for test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_ddg_test_ddg0 - 2019.10.24 at 18h 51m 06s.xml">
-      <configuration name="pytest for test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_rest_api_test_unittest_test_ddg_test_ddg0 - 2019.10.24 at 19h 10m 27s.xml">
-      <configuration name="pytest for rest_api.test.unittest.test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_ddg_test_ddg0 - 2019.10.24 at 19h 11m 29s.xml">
-      <configuration name="pytest for test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_ddg_test_ddg0 - 2019.10.24 at 19h 16m 29s.xml">
-      <configuration name="pytest for test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_ddg_test_ddg0 - 2019.10.24 at 19h 26m 09s.xml">
-      <configuration name="pytest for test_ddg.test_ddg0" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_ddg_py - 2019.10.24 at 19h 56m 10s.xml">
       <configuration name="pytest in test_ddg.py" configurationId="tests" />
     </history-entry>
@@ -328,6 +311,24 @@
       <configuration name="pytest for test_ddg.test_ddg1" configurationId="tests" />
     </history-entry>
     <history-entry file="pytest_in_test_ddg_py - 2019.10.24 at 21h 04m 41s.xml">
+      <configuration name="pytest in test_ddg.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ddg_py - 2019.10.24 at 22h 35m 27s.xml">
+      <configuration name="pytest in test_ddg.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_ddg_test_ddg1 - 2019.10.24 at 22h 53m 19s.xml">
+      <configuration name="pytest for test_ddg.test_ddg1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_ddg_test_ddg1 - 2019.10.24 at 22h 53m 33s.xml">
+      <configuration name="pytest for test_ddg.test_ddg1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_ddg_test_ddg1 - 2019.10.24 at 22h 53m 42s.xml">
+      <configuration name="pytest for test_ddg.test_ddg1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_ddg_test_ddg1 - 2019.10.24 at 22h 53m 57s.xml">
+      <configuration name="pytest for test_ddg.test_ddg1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ddg_py - 2019.10.24 at 22h 54m 09s.xml">
       <configuration name="pytest in test_ddg.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -369,25 +370,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1571963959289" expanded="true" signature="321:322" ph="..." />
-            <marker date="1571963959289" expanded="true" signature="321:326" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/travis.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rest_api/ddg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <state relative-caret-position="306">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1571970742835" expanded="true" signature="213:215" ph="..." />
+            <marker date="1571970925163" expanded="true" signature="213:215" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_api/test/unittest/test_ddg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1571972319390" expanded="true" signature="321:322" ph="..." />
+            <marker date="1571972319390" expanded="true" signature="321:326" ph="..." />
           </folding>
         </state>
       </provider>
