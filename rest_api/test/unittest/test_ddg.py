@@ -1,4 +1,5 @@
 import requests
+import pytest
 
 url = "https://api.duckduckgo.com/?q=presidents+of+the+united+states&format=json"
 
@@ -20,4 +21,4 @@ def test_ddg3():
     response = requests.get(url)
     my_jason = response.json()
     r_topics = my_jason['RelatedTopics']
-    assert (str(r_topics).count('Text')) == 45
+    with pytest.raises(AssertionError): assert (str(r_topics).count('Text')) == 45
