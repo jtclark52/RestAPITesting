@@ -17,7 +17,7 @@ def test_ddg1():
     assert len(r_topics) == 50
 
 # test should fail because there should only be 45 'Text' entries since there are 45 presidents but there are 50 entries under 'Text'
-def test_ddg3():
+def test_ddg2():
     response = requests.get(url)
     my_jason = response.json()
     r_topics = my_jason['RelatedTopics']
